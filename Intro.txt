@@ -1,0 +1,4 @@
+Hello IT238. 
+
+My name is Jeofrey Perez. I am a junior transfer student. I am majoring in Information Technology with a concentration in web development
+and minoring in user experience design. I'm looking forward to learning all about JQuery.
